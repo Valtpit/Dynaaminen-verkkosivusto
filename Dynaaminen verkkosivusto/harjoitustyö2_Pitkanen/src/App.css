@@ -1,0 +1,67 @@
+header{
+    background-color: rgb(37, 36, 36);
+    width: 100%;
+}
+
+header p {
+    display: inline-block;
+    margin-left: 0.3em;
+    margin-right: 1em;
+}
+
+.header {
+    height: 2.5em;
+}
+
+.news {
+    margin-bottom: 1em;
+    
+}
+
+img {
+    max-width: 40em;
+    max-height: 20em;
+    margin-left: 1em;
+
+}
+
+.bg{
+    background-color: rgb(63, 60, 57);
+}
+
+.body{
+    background-color: rgb(46, 44, 42);
+    min-height: 100vh;
+    margin: auto;
+    width: 90%;
+}
+
+hr {
+    border: 2px solid rgb(160, 154, 154);
+  }
+
+.bg p,
+.bg h3,
+a {
+    color: white;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+footer {
+    background-color: rgb(37, 36, 36);
+
+}
+
+.FON {
+    background-color: rgb(37, 36, 36);
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+}
+
+footer p {
+    display: inline-block;
+    margin-left: 0.3em;
+    margin-right: 1em;
+}
