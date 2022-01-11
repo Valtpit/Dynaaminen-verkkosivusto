@@ -1,0 +1,5 @@
+front:
+https://github.com/Valtpit/Ostoslista-front.git
+
+back:
+https://github.com/Valtpit/Ostoslista-back.git
